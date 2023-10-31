@@ -1,0 +1,28 @@
+1. navbar
+2. home ,contact us, places,services
+
+external js code link for navigating to pages
+<script type="text/javascript"
+  src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/js/ccbp-ui-kit.js"></script> 
+
+
+Effects 
+_____________________________
+hover
+after
+before
+_______________________________
+
+1 .about us page
+____________________________
+
+
+2 .services page sections
+________________________________
+
+summer travel 
+ Accomodations
+ transportation
+ Health and safety
+ Flight research
+ 
